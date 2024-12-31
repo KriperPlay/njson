@@ -8,12 +8,13 @@
 
 # About
 njson - lib for work with json in python
-```
-pip install njson.whl
-```
 
 # How to install
 download .whl file out 'release'
+and
+```
+pip install njson.whl
+```
 
 ## Class: njson
 
