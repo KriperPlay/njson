@@ -3,7 +3,7 @@
 ![](https://github.com/user-attachments/assets/40498f88-3dfe-485b-acba-db34e76b374e)
 
 # DESCRIPTION
-* doc. writen by gpt-4o
+* documentation writen by gpt-4o
 * Happy new year <3
 
 # About
