@@ -13,7 +13,7 @@ njson - lib for work with json in python
 download .whl file out 'release'
 and
 ```
-pip install njson.whl
+pip install njson-0.1.whl
 ```
 
 ## Class: njson
